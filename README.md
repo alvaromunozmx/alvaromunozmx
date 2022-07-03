@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<a href="https://app.daily.dev/alvaromunozmx"><img src="https://api.daily.dev/devcards/bd772817a2c14180b275e7ac9c02dc53.png?r=chj" width="400" alt="Alvaro's Dev Card"/></a>
+<a href="https://app.daily.dev/alvaromunozmx"><img src="https://api.daily.dev/devcards/bd772817a2c14180b275e7ac9c02dc53.png?r=7n3" width="400" alt="Alvaro's Dev Card"/></a>
 
 <!--
 **alvaromunozmx/alvaromunozmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
