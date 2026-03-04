@@ -1,7 +1,6 @@
 
 
 ## Hi 👋 I am Alvaro! 
-I am a talent manager at [Arkusnexus](https://www.arkusnexus.com/). 
 
 - 🌐 Visit my [porfolio website](https://alvaromunozmx.github.io/alvaromunozmx/) for complete background and contact.
 
