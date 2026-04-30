@@ -72,7 +72,7 @@ Reusable ML platform for demand prediction and cross-sell strategies.
 - PostgreSQL, Redis
 
 **Infra**
-- Docker, Kubernetes
+- Docker, Railway, AWS
 - Temporal, Airflow
 - Observability (Prometheus, Grafana)
 
