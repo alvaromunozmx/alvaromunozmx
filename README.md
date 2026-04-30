@@ -89,4 +89,7 @@ Reusable ML platform for demand prediction and cross-sell strategies.
 
 I don’t just use AI — I design the systems that make AI work in production.
 
-🌐 Visit my portfolio: https://alvaromunozmx.github.io/alvaromunozmx/
+## 🌐 Portfolio
+
+Check my AI systems portfolio:
+https://alvaromunozmx.github.io/alvaromunozmx/
