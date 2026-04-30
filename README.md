@@ -1,29 +1,90 @@
+# Hi 👋 I'm Alvaro Muñoz
 
+AI Platform Engineer & Product Builder focused on building real-world AI systems.
 
-## Hi 👋 I am Alvaro! 
-
-- 🌐 Visit my [porfolio website](https://alvaromunozmx.github.io/alvaromunozmx/) for complete background and contact.
-
+I design and build systems that combine machine learning, LLMs, and distributed architectures to solve complex business problems.
 
 ---
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=alvaromunozmx&theme=dark&hide_border=true" width = 400>
-</p>
 
+## 🧠 What I Do
 
-<!--
-<a href="https://app.daily.dev/alvaromunozmx"><img src="https://api.daily.dev/devcards/bd772817a2c14180b275e7ac9c02dc53.png?r=7n3" width="400" alt="Alvaro's Dev Card"/></a>
+- Design AI-powered systems and platforms
+- Build multi-agent architectures and LLM orchestration layers
+- Develop machine learning systems for real-world operations
+- Create AI-native products and SaaS platforms
 
-**alvaromunozmx/alvaromunozmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Featured AI Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧃 AI-Powered Sales System & Platform Modernization (Coca-Cola)
+Revisiting and transforming a system I originally worked on 10+ years ago — now powered by AI.
+
+- Migrating legacy mobile platform (Xamarin → .NET for Android)
+- Designing ML-driven recommendation system (product, quantity, cross-sell)
+- Integrating with Microsoft Fabric
+- Building feedback loops for continuous model improvement
+
+---
+
+### 🤖 AI Operations Platform (Multi-Agent System)
+A distributed AI system to unify finance, operations, and automation via conversational interfaces.
+
+- Multi-agent architecture (Finance, Operations, Knowledge, Automation)
+- LLM orchestration with dynamic tool execution
+- Workflow automation (Temporal, event-driven systems)
+- Observability and execution tracing
+
+---
+
+### 📊 AI Financial Document Processing Platform (SaaS)
+Multi-tenant AI system to process financial documents using LLMs and multimodal pipelines.
+
+- PDF, image, and CSV processing
+- Document classification and structured extraction
+- Queue-based scalable architecture
+- Closed-loop prompt optimization
+- Financial analytics and forecasting
+
+---
+
+### 📈 Machine Learning Recommendation Platform
+Reusable ML platform for demand prediction and cross-sell strategies.
+
+- Multi-model pipeline (LightGBM, XGBoost, similarity models)
+- MLflow model lifecycle management
+- Automated retraining pipelines
+- Baseline-gated production validation
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML**
+- Machine Learning (LightGBM, XGBoost)
+- LLMs (OpenAI, Anthropic, Google)
+- RAG & AI pipelines
+- Multi-agent systems
+
+**Backend**
+- Node.js, TypeScript, Python
+- FastAPI, Express
+- PostgreSQL, Redis
+
+**Infra**
+- Docker, Kubernetes
+- Temporal, Airflow
+- Observability (Prometheus, Grafana)
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/alvaro-mu%C3%B1oz/
+- GitHub: https://github.com/alvaromunozmx
+
+---
+
+## ⚡ Philosophy
+
+I don’t just use AI — I design the systems that make AI work in production.
