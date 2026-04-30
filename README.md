@@ -83,6 +83,8 @@ Reusable ML platform for demand prediction and cross-sell strategies.
 - LinkedIn: https://www.linkedin.com/in/alvaro-mu%C3%B1oz/
 - GitHub: https://github.com/alvaromunozmx
 
+🌐 Visit my portfolio: https://alvaromunozmx.github.io/alvaromunozmx/
+
 ---
 
 ## ⚡ Philosophy
